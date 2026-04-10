@@ -12,7 +12,7 @@ type HeroProps = {
 export function Hero({
   title = '你好，我是Ryoko',
   subtitle = '我是一名前端开发者，专注于通过 Vue/React、TypeScript、Vite 实现现代 Web 体验。',
-  avatarUrl = '/Ryoko.jpg',
+  avatarUrl = './src/assets/Ryoko.jpg',
   avatarText = 'Ryoko',
 }: HeroProps) {
   return (
