@@ -12,7 +12,7 @@ export const contacts: ContactItem[] = [
   {
     type: 'email',
     name: '邮箱',
-    value: 'ryoko@example.com',
+    value: 'q3238036723@outlook.com',
     action: 'copy',
   },
   {
@@ -20,12 +20,12 @@ export const contacts: ContactItem[] = [
     name: 'GitHub',
     value: 'github.com/ryoko',
     action: 'link',
-    href: 'https://github.com/ryoko',
+    href: 'https://github.com/RyokoKr',
   },
   {
     type: 'wechat',
     name: 'WeChat',
-    value: 'Ryoko_WeChat',
+    value: 'qw2938166072',
     action: 'copy',
   },
 ]

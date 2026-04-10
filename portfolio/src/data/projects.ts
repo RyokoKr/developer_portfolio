@@ -14,7 +14,7 @@ export const projects: Project[] = [
     description:
       '使用 React + TypeScript + Tailwind CSS 构建的个人作品集，包含首页、关于我、项目展示与联系方式。',
     tech: ['React', 'TypeScript', 'Vite', 'Tailwind CSS'],
-    // imageUrl: '/images/portfolio.png',
+    imageUrl: '/portfolio.png',
     href: '#',
   },
   {
